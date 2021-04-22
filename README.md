@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayColt
 - 👀 I’m interested in ...Warfare
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... Russia
+- 💞️ I’m looking to collaborate with ... Russia
 - 📫 How to reach me ... Call the Dutch Embassey!
 
 <!---
