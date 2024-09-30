@@ -1,7 +1,7 @@
 - 🔔 Hi, I’m @RayColt
 - 👀 I’m interested in ... Warfare
 - 🌱 I’m currently learning ... C++
-- 💞️ Currently Working on:<br>
+- 💞️ Currently working on:<br>
 <img src=https://github.com/RayColt/morse/blob/master/C%23/spectrogram2.jpg />
 
 <!---
