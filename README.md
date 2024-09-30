@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayColt
+- 🔔 Hi, I’m @RayColt
 - 👀 I’m interested in ... Warfare
 - 🌱 I’m currently learning ... C++
 - 💞️ Currently Working on:<br>
