@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RayColt
 - 👀 I’m interested in ... Warfare
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate with ... Russia
-- 📫 How to reach me ... Call the Dutch Embassey!
+- 💞️ Currently Working on:<br>
+ <img src=https://github.com/RayColt/Morse-Code-Sharp/blob/master/spectrogram2.jpg />
 
 <!---
 RayColt/RayColt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
